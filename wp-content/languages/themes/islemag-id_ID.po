@@ -1,0 +1,982 @@
+# Translation of Themes - IsleMag in Indonesian
+# This file is distributed under the same license as the Themes - IsleMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-31 05:36:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - IsleMag\n"
+
+#. Description of the plugin/theme
+msgid "A modern and clean free WordPress theme for tech magazines, news and newspaper media websites, personal fashion blogs, or photography, IsleMag is responsive, flat, minimalist, SEO friendly, Retina ready, built with Bootstrap, and has social links. Released in 2016, the theme has Google AdSense banners, a magazine homepage template, custom backgrounds, filtered categories, tags, boxed layout, and live customizer. IsleMag is WPML, Photo Gallery Grid,Contact Form 7,WP Product Review, SiteOrigin Page Builder, JetPack compatible, the theme is highly customizable and translation ready."
+msgstr "Tema Wordpress yang modern dan bersih untuk magazine tekno, berita dan website surat kabar, blog fashion personal, atau fotografi, IsleMag sangat responsif, rata, minimalis, SEO bersahabat, sudah Retina, dibangun menggunakan Bootstrap, dan ada link sosial. Diluncurkan di tahun 2016, tema ini punya banner iklan google, template magazine laman depan, latar belakang kustom, kategori yang disaring, tag, tata letak kotak, dan kustomisasi langsung. IsleMag merupakan WPML, Photo Gallery Grid, Contact Form 7, WP Product Review, SiteOrigin Page Builder, JetPack, tema sangat bisa di kustom dan terjemahan sudah siap."
+
+#. Theme Name of the plugin/theme
+msgid "IsleMag"
+msgstr "IsleMag"
+
+#: inc/admin/welcome-screen/welcome-screen.php:202
+msgid "Changelog"
+msgstr "Catatan perubahan"
+
+#: inc/admin/welcome-screen/welcome-screen.php:201
+msgid "Contribute"
+msgstr "Kontribusi"
+
+#: inc/admin/welcome-screen/welcome-screen.php:200
+msgid "Actions required"
+msgstr "Tindakan yang diperlukan"
+
+#: inc/admin/welcome-screen/welcome-screen.php:65
+msgid "Get started with %s"
+msgstr "Mulai dengan %s"
+
+#: inc/admin/welcome-screen/welcome-screen.php:64
+msgid "Welcome! Thank you for choosing %s! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Selamat Datang! Terimakasih telah memilih %s! Untuk mengambil keuntungan sepenuhnya dari tema terbaik kami silahkan kunjungi %swelcome page%s kami."
+
+#: inc/admin/welcome-screen/sections/github.php:38
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr "Beri nilai tema kami di %sWordPress.org%s. Kami sangat menghargainya!"
+
+#: inc/admin/welcome-screen/sections/github.php:36
+msgid "Are you enjoying %s?"
+msgstr "Apakah Anda menikmati %s?"
+
+#: inc/admin/welcome-screen/sections/github.php:27
+msgid "Get involved at WordPress.org."
+msgstr "Bergabunglah di WordPress.org."
+
+#: inc/admin/welcome-screen/sections/github.php:25
+msgid "Are you a polyglot? Want to translate %s into your own language?"
+msgstr "Apakah Anda seorang polygot? Ingin menerjemahkan %s kedalam bahasa Anda?"
+
+#: inc/admin/welcome-screen/sections/github.php:19
+msgid "%s on GitHub"
+msgstr "%s di GitHub"
+
+#: inc/admin/welcome-screen/sections/github.php:16
+msgid "GitHub is the place to go!"
+msgstr "GitHub adalah tempat yang tepat!"
+
+#: inc/admin/welcome-screen/sections/github.php:14
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Menemukan bug? Ingin berkontribusi membetulkannya atau membuat fitur baru?"
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr "Bagaimana saya bisa berkontribusi?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:233
+msgid "Install Revive Old Post"
+msgstr "Pasang Revive Old Post"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:223
+msgid "A plugin to share about your old posts on twitter, facebook, linkedin to get more hits for them and keep them alive."
+msgstr "Plugin untuk membagikan tentang pos lama Anda di twitter, facebook, linkedin menjadi lebih nge-hit lagi dan tetap aktif."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:222
+msgid "Revive Old Post"
+msgstr "Revive Old Post"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:213
+msgid "Download Easy Content Types"
+msgstr "Unduh Easy Content Types"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:203
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr "Kustom Jenis Pos, Taksonomi, Metabox dalam itungan Menit"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:202
+msgid "Easy Content Types"
+msgstr "Easy Content Types"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:193
+msgid "Install Visualizer"
+msgstr "Pasang Visualizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:183
+msgid "A simple, easy to use and quite powerful chart tool to create, manage and embed interactive charts into your WordPress posts and pages."
+msgstr "Simpel, mudah digunakan dan sangat berguna untuk membuat, mengelola dan menyematkan chart interaktif kedalam post Wordpress Anda dan laman."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:182
+msgid "Visualizer: Charts and Graphs"
+msgstr "Visualizer: Charts and Graphs"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:171
+#: inc/admin/welcome-screen/sections/getting-started.php:252
+msgid "Install"
+msgstr "Pasang"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:152
+msgid "Install Custom Login Customizer"
+msgstr "Pasang Custom Login Customizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:142
+msgid "Login Customizer plugin allows you to easily customize your login page straight from your WordPress Customizer! You can preview your changes before you save them!"
+msgstr "Plugin Login Customizer memungkinkan Anda dengan mudah mengkustom laman login Anda tepat di Penyesua Wordpress! Anda dapat pratinjau perubahan sebelum menyimpannya!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:141
+msgid "Custom Login Customizer"
+msgstr "Kustom Login Customizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:131
+msgid "Install WP Product Review"
+msgstr "Pasang WP Product Review"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:121
+msgid "Easily turn your basic posts into in-depth reviews with ratings, pros and cons, affiliate links, rich snippets and user reviews."
+msgstr "Dengan mudah memutar pos dasar Anda ke tinjauan yang mendalam dengan nilai, pro dan kontra, link afiliasi, cuplikasn dan ulasan pengguna."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:120
+msgid "WP Product Review"
+msgstr "WP Product Review"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:110
+msgid "Install Page Builder by SiteOrigin"
+msgstr "Pasang Page Builder oleh SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:104
+#: inc/admin/welcome-screen/sections/getting-started.php:125
+#: inc/admin/welcome-screen/sections/getting-started.php:146
+#: inc/admin/welcome-screen/sections/getting-started.php:165
+#: inc/admin/welcome-screen/sections/getting-started.php:187
+#: inc/admin/welcome-screen/sections/getting-started.php:207
+#: inc/admin/welcome-screen/sections/getting-started.php:227
+#: inc/admin/welcome-screen/sections/getting-started.php:246
+msgid "Already activated"
+msgstr "Sudah diaktifkan"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:100
+msgid "Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder."
+msgstr "Buat tata letak laman yang responsif menggunakan widget yang Anda tahu dan suka dengan pembuat laman yang simpel dan drag-and-drop ini."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:99
+msgid "Page Builder by SiteOrigin"
+msgstr "Pembuat Laman oleh SiteOrigin."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:93
+msgid "Recommended plugins"
+msgstr "Plugin yang disarankan"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:86
+msgid "Read full documentation"
+msgstr "Baca semua dokumentasi"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:85
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Perlu lebih rinci? Silahkan cek semua dokumentasi kami untuk rincian informasi tentang penggunaan %s."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:84
+msgid "View full documentation"
+msgstr "Lihat semua dokumentasi"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:70
+msgid "Read more"
+msgstr "Baca selengkapnya"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:69
+msgid " At the address below you will find a cool set of original WordPress plugins that can give you great benefits despite being a little lesser known out there."
+msgstr "Pada alamat dibawah Anda akan temukan satu set plugin Wordpress asli yang bisa memberikan Anda keuntungan yang besar meskipun diketahui lebih rendah diluar sana."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:68
+msgid "30 Experts Share: The Top *Non-Obvious* WordPress Plugins That'll Make You a Better Blogger"
+msgstr "30 Ahli Membagikan: Top Plugin Wordpress *Non-Obvious* Akan Membuat Anda MEnjadi Blogger yang Lebih Baik"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:63
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Jika Anda merasa semuanya berjalan lambat pada website anda, Anda harus mempertimbangkan untuk melihat dokumentasi dibawah ini dimana Anda akan menemukan masalah yang serupa seperti ini dan kemungkinanan menjadi solusi untuk masalah ini."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:62
+msgid "Speed up your site"
+msgstr "Percepat situsmu"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:55
+msgid "In the below documentation you will find an easy way to translate %s into your native language or any other language you need for you site."
+msgstr "Pada dokumentasi dibawah ini Anda akan temukan cara mudah menerjemahkan %s ke bahasa Anda atau bahasa lainnya yang Anda perlukan untuk situs ini."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:54
+#: inc/admin/welcome-screen/sections/github.php:30
+msgid "Translate %s"
+msgstr "Terjemahkan %s"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:49
+msgid "In the below documentation you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "Pada dokumentasi dibawah Anda dapat menemukan cara mudah membuat tampilan bagus laman landasan dengan plugin pembuat konten drag-and-drop."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:48
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Buat laman landasan dengan pembuat konten drag-and-drop"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:44
+#: inc/admin/welcome-screen/sections/getting-started.php:50
+#: inc/admin/welcome-screen/sections/getting-started.php:56
+#: inc/admin/welcome-screen/sections/getting-started.php:64
+#: inc/admin/welcome-screen/sections/getting-started.php:74
+msgid "View how to do this"
+msgstr "Lihat bagaimana caranya"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:43
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Jika Anda ingin melakukan perubahan pada file tema, perubahan tersebut akan ditimpa saat Anda melakukan pembaruan berikutnya. Untuk menghindari masalah tersebut, Anda perlu membuat tema anak. Untuk ini, silahkan ikuti dokumentasi dibawah."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:42
+msgid "Create a child theme"
+msgstr "Buat tema anak"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:28
+msgid "Go to Customizer"
+msgstr "Pergi ke Penyesuai"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:27
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Dengan Pengkustom Wordpress Anda dapat dengan mudah kustom setiap aspek tema."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid "Customize everything in a single place."
+msgstr "Kustom semuanya di satu tempat."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:24
+#: inc/admin/welcome-screen/welcome-screen.php:199
+msgid "Getting started"
+msgstr "Mulai"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid "We want to make sure you have the best experience using %s and that is why we gathered here all the necessary informations for you. We hope you will enjoy using %s, as much as we enjoy creating great products."
+msgstr "Kami ingin meyakinkan Anda mendapatkan pengalaman yang bagus dengan %s dan itulah mengapa kami kumpulan informasi yang diperlukan disini untuk Anda. Kami harap Anda menikmati %s, seperti kami menikmati ketika membuatnya."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:15
+msgid "Our best free one page magazine WordPress theme, %s!"
+msgstr "Tema Wordpress gratis kami yang terbaik, %s!"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:60
+#: inc/admin/welcome-screen/welcome-screen.php:103
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Hore! Tidak ada tindakan yang diperlukan saat ini."
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with %s's latest news"
+msgstr "Ikutilah berita terbarunya %s"
+
+#: functions.php:140
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Ubah \"Tampilan laman depan\" ke \"Laman statis\""
+
+#: functions.php:141
+msgid "In order to have the one page look for your website, please go to Customize -> Static Front Page and switch \"Front page displays\" to \"A static page\". Then select the template \"Frontpage\" for that selected page."
+msgstr "Supaya website Anda punya tampilan one-page, silahkan pergi ke Kustomisasi -> Laman Depan Statis dan alihkan \"Tampilan laman depan\" ke \"Laman statis\". Kemudian pilih template \"Laman Depan\" untuk laman tersebut."
+
+#: sidebar.php:34
+msgid "Banner Widget Example"
+msgstr "Contoh Widget Banner"
+
+#: sidebar.php:20
+msgid "Example Widget"
+msgstr "Widget contoh"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Ukuran Penuh"
+
+#: template-parts/content.php:90
+msgid "about "
+msgstr "tentang"
+
+#. translators: About title of the post
+#: template-parts/content.php:90
+msgid "Read more %s ..."
+msgstr "Baca selengkapnya %s ..."
+
+#: template-parts/content-template2.php:73
+#: template-parts/content-template3.php:141
+#: template-parts/content-template3.php:199
+#: template-parts/content-template3.php:255
+#: template-parts/content-template4.php:77
+#: template-parts/content-template4.php:133
+msgid "Posted By"
+msgstr "Diposkan Oleh"
+
+#: template-parts/content-template1.php:70
+#: template-parts/content-template2.php:59
+#: template-parts/content-template3.php:77
+#: template-parts/content-template3.php:128
+#: template-parts/content-template3.php:186
+#: template-parts/content-template3.php:242
+#: template-parts/content-template4.php:64
+#: template-parts/content-template4.php:120
+msgid "Rating:"
+msgstr "Nilai:"
+
+#: template-parts/content-single.php:236
+msgid "Read More"
+msgstr "Baca Selengkapnya"
+
+#: template-parts/content-single.php:221
+msgid "Show more categories"
+msgstr "Tampilkan lebih banyak kategori"
+
+#: template-parts/content-single.php:135
+msgid "Related Posts"
+msgstr "Pos Terkait"
+
+#: template-parts/content-single.php:113
+msgid "by"
+msgstr "oleh"
+
+#: template-parts/content-single.php:111
+msgid "% Responses"
+msgstr "% Tanggapan"
+
+#: template-parts/content-single.php:111
+msgid "One Response"
+msgstr "Satu Tanggapan"
+
+#: template-parts/content-single.php:111
+msgid "No Responses"
+msgstr "Tidak Ada Tanggapan"
+
+#: template-parts/content-single.php:95
+msgid "Categories:"
+msgstr "Kategori:"
+
+#: template-parts/content-page.php:21 template-parts/content-search.php:82
+#: template-parts/content-single.php:84 template-parts/content.php:97
+msgid "Pages:"
+msgstr "Laman:"
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sepertinya tidak bisa menemukan yang Anda cari. Mungkin pencarian akan membantu."
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata kunci Anda. Silahkan coba lagi beberapa kata kunci yang lain."
+
+#. translators: Add new post link
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap mempublikasikan pos pertama Anda? <a href=\"%1$s\">Mulai disini</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: functions.php:729
+msgid "Ads Area 5"
+msgstr "Area Iklan 5"
+
+#: functions.php:724
+msgid "Ads Area 4"
+msgstr "Area Iklan 4"
+
+#: functions.php:718
+msgid "Ads Area 3"
+msgstr "Area Iklan 3"
+
+#: functions.php:713
+msgid "Ads Area 2"
+msgstr "Area Iklan 2"
+
+#: functions.php:708
+msgid "Ads Area 1"
+msgstr "Area Iklan 1"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search in here..."
+msgstr "Cari disini..."
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Cari:"
+
+#. translators: Search query
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:77 template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr "Sunting %s"
+
+#: inc/template-tags.php:69
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:69
+msgid "Comment"
+msgstr "Komentar"
+
+#: inc/template-tags.php:69
+msgid "Leave a comment"
+msgstr "Beri komentar"
+
+#. translators: tags list
+#: inc/template-tags.php:63
+msgid "Tagged: %1$s"
+msgstr "Tag: %1$s"
+
+#. translators: Categories list
+#: inc/template-tags.php:56
+msgid "Posted in: %1$s"
+msgstr "Dipos di: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:60
+msgid ", "
+msgstr ", "
+
+#. translators: Author link
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "oleh %s"
+
+#. translators: Posted date
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Dipos pada %s"
+
+#: inc/customizer.php:469
+msgid "Socials title"
+msgstr "Judul sosial"
+
+#: inc/customizer.php:463
+msgid "Footer content"
+msgstr "Konten footer"
+
+#: inc/customizer.php:461
+msgid "Allowed HTML tags: <p>, <br>, <em>, <strong>, <ul>, <li>, <a>, <button>, <address>, <abbr>"
+msgstr "Memperbolehkan tag HTML: <p>, <br>, <em>, <strong>, <ul>, <li>, <a>, <button>, <address>, <abbr>"
+
+#: inc/customizer.php:455
+msgid "If not set, the footer logo will point to homepage url."
+msgstr "Jika tidak diatur, logo footer akan mengarah ke laman beranda."
+
+#: inc/customizer.php:454
+msgid "Footer logo link"
+msgstr "Link logo footer"
+
+#: inc/customizer.php:448
+msgid "Footer logo"
+msgstr "Logo footer"
+
+#: inc/customizer.php:442
+msgid "If you check this box, the thumbnail will disappear from single page."
+msgstr "Jika Anda centang kotak ini, thumbnail akan dihilangkan dari laman tunggal"
+
+#: inc/customizer.php:441
+msgid "Hide post thumbnail on single page?"
+msgstr "Sembunyikan thumbnail pos pada laman tunggal?"
+
+#: inc/customizer.php:434
+msgid "If you check this box, related posts will disappear from single page."
+msgstr "Jika Anda centang kotak ini, pos terkait akan dihilangkan dari laman tunggal."
+
+#: inc/customizer.php:433
+msgid "Hide related posts?"
+msgstr "Sembunyikan pos terkait?"
+
+#: inc/customizer.php:426
+msgid "If you check this box, the author's description will disappear from single page."
+msgstr "Jika Anda centang kotak ini, deskripsi penulis akan dihilangkan dari laman tunggal."
+
+#: inc/customizer.php:425
+msgid "Hide author's description?"
+msgstr "Sembunyikan deskripsi penulis"
+
+#: inc/customizer.php:411
+msgid "Number of posts in each slide"
+msgstr "Jumlah pos di setiap slide nya"
+
+#: inc/customizer.php:380
+msgid "If you check this box and you have a sidebar, the section will be displayed after the sidebar"
+msgstr "Jika Anda centang kotak ini dan Anda memiliki sidebar, bagian ini akan ditampilkan setelah sidebar"
+
+#: inc/customizer.php:379
+msgid "Full width section"
+msgstr "Bagian lebar penuh"
+
+#: inc/customizer.php:359 inc/customizer.php:399
+msgid "To display all posts, set this field to -1."
+msgstr "Untuk menampilkan semua pos, atur bidang ini ke -1."
+
+#: inc/customizer.php:358 inc/customizer.php:398
+msgid "Number of posts in this section"
+msgstr "Jumlah pos di bagian ini"
+
+#: inc/customizer.php:352 inc/customizer.php:392
+#: template-parts/content-template3.php:40
+#: template-parts/content-template3.php:104
+#: template-parts/content-template3.php:161
+#: template-parts/content-template3.php:217
+#: template-parts/content-template4.php:39
+#: template-parts/content-template4.php:95
+msgid "Category"
+msgstr "Kategori"
+
+#: inc/customizer.php:339
+msgid "Disable sticky menu"
+msgstr "Tiadakan menu sticky"
+
+#: inc/customizer.php:330 inc/customizer.php:475
+msgid "Add new social icon"
+msgstr "Tambah ikon sosial baru"
+
+#: inc/customizer.php:324
+msgid "Section's posts text color"
+msgstr "Warna teks bagian post"
+
+#: inc/customizer.php:318
+msgid "Section's posts title color"
+msgstr "Warna judul bagian post"
+
+#: inc/customizer.php:312
+msgid "Top slider's posts text color"
+msgstr "Warna teks pos slider atas"
+
+#: inc/customizer.php:306
+msgid "Top slider's posts title color"
+msgstr "Warna judul pos slider atas"
+
+#: inc/customizer.php:300
+msgid "Title color"
+msgstr "Warna judul"
+
+#: inc/customizer.php:128
+msgid "Single post settings"
+msgstr "Pengaturan pos tunggal"
+
+#: functions.php:728 inc/customizer.php:122 inc/customizer.php:220
+msgid "Section 5"
+msgstr "Bagian 5"
+
+#: functions.php:723 inc/customizer.php:116 inc/customizer.php:212
+msgid "Section 4"
+msgstr "Bagian 4"
+
+#: functions.php:717 inc/customizer.php:110 inc/customizer.php:209
+msgid "Section 3"
+msgstr "Bagian 3"
+
+#: functions.php:712 inc/customizer.php:104 inc/customizer.php:206
+msgid "Section 2"
+msgstr "Bagian 2"
+
+#: functions.php:707 inc/customizer.php:98 inc/customizer.php:203
+msgid "Section 1"
+msgstr "Bagian 1"
+
+#: inc/customizer.php:92
+msgid "Header slider"
+msgstr "Slider header"
+
+#: inc/customizer.php:86
+msgid "Islemag header content"
+msgstr "Konten header islemag"
+
+#: inc/customizer.php:85
+msgid "Header content"
+msgstr "Konten header"
+
+#: inc/customizer.php:79
+msgid "Header top bar"
+msgstr "Bari atas header"
+
+#: inc/customizer.php:70
+msgid "Frontpage sections"
+msgstr "Bagian laman depan"
+
+#: inc/customizer.php:64
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer.php:19
+msgid "Text color"
+msgstr "Warna teks"
+
+#: inc/class/islemag-widget-multiple-ads.php:150
+msgid "Recommended size: 125 x 125 px"
+msgstr "Ukuran yang disarankan: 125 x 125 px"
+
+#: inc/class/islemag-widget-content-ad.php:156
+msgid "234 x 60 px"
+msgstr "234 x 60 px"
+
+#: inc/class/islemag-widget-content-ad.php:155
+msgid "468 x 60 px"
+msgstr "468 x 60 px"
+
+#: inc/class/islemag-widget-content-ad.php:153
+msgid "728 x 90 px"
+msgstr "728 x 90 px"
+
+#: inc/class/islemag-widget-big-ad.php:206
+#: inc/class/islemag-widget-content-ad.php:185
+#: inc/class/islemag-widget-multiple-ads.php:197
+msgid "Code:"
+msgstr "Kode:"
+
+#: inc/class/islemag-widget-big-ad.php:199
+#: inc/class/islemag-widget-content-ad.php:178
+#: inc/class/islemag-widget-multiple-ads.php:190
+msgid "Image:"
+msgstr "Gambar:"
+
+#: inc/class/islemag-widget-big-ad.php:193
+#: inc/class/islemag-widget-content-ad.php:172
+msgid "Open in new tab"
+msgstr "Buka di tab baru"
+
+#: inc/class/islemag-widget-big-ad.php:177
+#: inc/class/islemag-widget-multiple-ads.php:173
+msgid "Alt Title"
+msgstr "Judul Alt"
+
+#: inc/class/islemag-widget-big-ad.php:172
+msgid "250 x 250 px"
+msgstr "250 x 250 px"
+
+#: inc/class/islemag-widget-big-ad.php:171
+msgid "300 x 600 px"
+msgstr "300 x 600 px"
+
+#: inc/class/islemag-widget-big-ad.php:170
+#: inc/class/islemag-widget-content-ad.php:154
+msgid "300 x 100 px"
+msgstr "300 x 100 px"
+
+#: inc/class/islemag-widget-big-ad.php:169
+msgid "300 x 250 px"
+msgstr "300 x 250 px"
+
+#: inc/class/islemag-widget-big-ad.php:168
+#: inc/class/islemag-widget-content-ad.php:152
+msgid "Recommended sizes:"
+msgstr "Ukuran yang disarankan:"
+
+#: inc/class/islemag-widget-big-ad.php:164
+#: inc/class/islemag-widget-content-ad.php:148
+#: inc/class/islemag-widget-multiple-ads.php:167
+msgid "Advertisement "
+msgstr "Iklan"
+
+#: inc/class/islemag-widget-big-ad.php:153
+#: inc/class/islemag-widget-multiple-ads.php:146 inc/customizer.php:386
+msgid "Title"
+msgstr "Judul"
+
+#: inc/customizer-repeater/islemag-general-control.php:125
+msgid "Add new field"
+msgstr "Tambah bidang baru"
+
+#: inc/customizer-repeater/islemag-general-control.php:186
+#: inc/customizer-repeater/islemag-general-control.php:214
+msgid "Delete field"
+msgstr "Hapus bidang"
+
+#: inc/customizer-repeater/islemag-general-control.php:245
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/class/islemag-category-selector.php:37
+msgid "All"
+msgstr "Semua"
+
+#: inc/class/islemag-banner-control.php:85
+#: inc/class/islemag-banner-control.php:91
+msgid "Recomanded size: 728px x 90px"
+msgstr "Ukuran yang disarankan: 728px x 90px"
+
+#: inc/class/islemag-banner-control.php:64
+#: inc/class/islemag-banner-control.php:65
+#: inc/class/islemag-banner-control.php:95
+#: inc/class/islemag-banner-control.php:96
+#: inc/class/islemag-widget-big-ad.php:195
+#: inc/class/islemag-widget-content-ad.php:174
+#: inc/class/islemag-widget-multiple-ads.php:186
+#: inc/customizer-repeater/islemag-general-control.php:174
+#: inc/customizer-repeater/islemag-general-control.php:208
+msgid "Link"
+msgstr "Link"
+
+#: inc/class/islemag-banner-control.php:62
+#: inc/class/islemag-banner-control.php:93
+msgid "Upload Image"
+msgstr "Unggah gambar"
+
+#: inc/class/islemag-banner-control.php:55
+#: inc/class/islemag-banner-control.php:86
+#: inc/class/islemag-widget-big-ad.php:207
+#: inc/class/islemag-widget-content-ad.php:186
+#: inc/class/islemag-widget-multiple-ads.php:198
+msgid "Text"
+msgstr "Teks"
+
+#: inc/class/islemag-banner-control.php:54
+#: inc/class/islemag-banner-control.php:60
+msgid "Recommended size: 728px x 90px"
+msgstr "Ukuran yang disarankan: 728px x 90px"
+
+#: inc/class/islemag-banner-control.php:53
+#: inc/class/islemag-banner-control.php:84
+msgid "Banner Code"
+msgstr "Kode banner"
+
+#: inc/class/islemag-banner-control.php:50
+#: inc/class/islemag-banner-control.php:81
+msgid "Right"
+msgstr "Kanan"
+
+#: inc/class/islemag-banner-control.php:49
+#: inc/class/islemag-banner-control.php:80
+msgid "Center"
+msgstr "Tengah"
+
+#: inc/class/islemag-banner-control.php:48
+#: inc/class/islemag-banner-control.php:79
+msgid "Left"
+msgstr "Kiri"
+
+#: inc/class/islemag-banner-control.php:47
+#: inc/class/islemag-banner-control.php:78
+msgid "Banner position"
+msgstr "Posisi banner"
+
+#: inc/class/islemag-banner-control.php:45
+#: inc/class/islemag-banner-control.php:76
+#: inc/class/islemag-widget-big-ad.php:186
+#: inc/class/islemag-widget-content-ad.php:165
+#: inc/class/islemag-widget-multiple-ads.php:182
+msgid "Code"
+msgstr "Kode"
+
+#: inc/class/islemag-banner-control.php:44
+#: inc/class/islemag-banner-control.php:59
+#: inc/class/islemag-banner-control.php:75
+#: inc/class/islemag-banner-control.php:90
+#: inc/class/islemag-widget-big-ad.php:184
+#: inc/class/islemag-widget-content-ad.php:163
+#: inc/class/islemag-widget-multiple-ads.php:180
+msgid "Image"
+msgstr "Gambar"
+
+#: inc/class/islemag-banner-control.php:43
+#: inc/class/islemag-banner-control.php:74
+msgid "Banner type"
+msgstr "Jenis banner"
+
+#: header.php:57 header.php:136
+msgid "Skip to content"
+msgstr "Lompat ke konten"
+
+#: header.php:56 header.php:135
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/extras.php:121
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang dimoderasi."
+
+#: inc/extras.php:111
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: functions.php:344
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:343
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:342
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:315
+msgid "collapse child menu"
+msgstr "persempit menu anak"
+
+#: functions.php:314
+msgid "expand child menu"
+msgstr "perlebar menu anak"
+
+#: functions.php:266
+msgid "Footer area 3"
+msgstr "Area footer 3"
+
+#: functions.php:263
+msgid "Footer area 2"
+msgstr "Area footer 2"
+
+#: functions.php:260
+msgid "Footer area 1"
+msgstr "Area footer 1"
+
+#. translators: Number of registered advertisment area
+#: functions.php:242
+msgid "Advertisments area %d"
+msgstr "%d area iklan"
+
+#: functions.php:233
+msgid "Header advertisment area"
+msgstr "Area iklan header"
+
+#: functions.php:223
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:182
+msgid "Small Square"
+msgstr "Persegi Kecil"
+
+#: functions.php:181
+msgid "Vertical Rectangle"
+msgstr "Persegi Vertikal"
+
+#: functions.php:180
+msgid "Big Square"
+msgstr "Persegi Besar"
+
+#: functions.php:179
+msgid "Half-page ad"
+msgstr "Iklan setengah-laman"
+
+#: functions.php:178
+msgid "Medium Rectangle"
+msgstr "Persegi Sedang"
+
+#: functions.php:177
+msgid "3:1 Rectangle"
+msgstr "3:1 Persegi"
+
+#: functions.php:176
+msgid "Leaderboard"
+msgstr "Papan"
+
+#: functions.php:175
+msgid "Small Advertisement"
+msgstr "Iklan Kecil"
+
+#: functions.php:109
+msgid "Banner"
+msgstr "Banner"
+
+#: functions.php:68 inc/customizer.php:133
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:67
+msgid "Primary"
+msgstr "Utama"
+
+#: functions.php:66
+msgid "Top"
+msgstr "Atas"
+
+#: inc/extras.php:56
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer-repeater/islemag-general-control.php:56 inc/extras.php:55
+msgid "Islemag"
+msgstr "Islemag"
+
+#. translators: 1 - Theme name , 2 - WordPress link
+#: inc/extras.php:54
+msgid "%1$s powered by %2$s"
+msgstr "%1$s dipersembahkan oleh %2$s"
+
+#: footer.php:87
+msgid "Widgets Area 3"
+msgstr "Area widget 3"
+
+#: footer.php:81
+msgid "Widgets Area 2"
+msgstr "Area widget 2"
+
+#: footer.php:75
+msgid "Widgets Area 1"
+msgstr "Area widget 1"
+
+#: comments.php:106
+msgid "Your Message"
+msgstr "Pesan Anda"
+
+#: comments.php:105
+msgctxt "noun"
+msgid "Comment"
+msgstr "Komentar"
+
+#: comments.php:95 comments.php:96
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:88
+msgid "Your E-mail"
+msgstr "Email Anda"
+
+#: comments.php:87
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:79 comments.php:80
+msgid "Name"
+msgstr "Nama"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:37 comments.php:58
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: comments.php:36 comments.php:57
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:33 comments.php:54
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sepertinya tidak apa-apa disini. Mungkin mau coba salah satu link dibawah atau pencarian?"
+
+#: 404.php:16
+msgid "Page Not Found"
+msgstr "Laman Tidak Ditemukan"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/islemag/"
+msgstr "http://themeisle.com/themes/islemag/"
